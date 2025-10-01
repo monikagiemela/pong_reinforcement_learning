@@ -6,7 +6,7 @@ This project implements a Reinforcement Learning agent that learns to play the A
 
 Here is the trained agent playing a full game of Pong.
 https://github.com/user-attachments/assets/36072835-a0ba-4a15-8ad4-c346ac17e5cd
-
+/Users/monikagiemela/Documents/Documents - MacBook Air (Monika)/IU/reinforcement_learning/pong_reinforcement_learning/videos/pong-agent-episode-0.mp4
 ## Overview
 
 The goal of Reinforcement Learning (RL) is to train an **agent** to make optimal decisions within an **environment**. The agent learns by taking **actions**, observing the resulting **state** and **reward**, and adjusting its strategy to maximize its cumulative reward over time.
