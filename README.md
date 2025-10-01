@@ -5,7 +5,7 @@ This project implements a Reinforcement Learning agent that learns to play the A
 ## Demo
 
 Here is the trained agent playing a full game of Pong.
-![pong-agent-playing-game.mp4](https://github.com/user-attachments/assets/36072835-a0ba-4a15-8ad4-c346ac17e5cd)
+https://github.com/user-attachments/assets/36072835-a0ba-4a15-8ad4-c346ac17e5cd
 
 ## Overview
 
